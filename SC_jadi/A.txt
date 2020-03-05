@@ -1,0 +1,6 @@
+ubuntu2a
+ubuntu2b
+ubuntu2c
+ubuntu2e
+ubuntu2f
+debian2a
