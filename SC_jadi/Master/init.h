@@ -10,7 +10,7 @@ char **gethostname(int nhost){
       pvm_bufinfo(cc, (int*)0, (int*)0, &tid);
       pvm_upkstr(hostname[i]);
     }
-    else printf("can't start updateTasksSlave\n");
+    else printf("can't start setHostnameSlave\n");
   }
   return hostname;
 }
